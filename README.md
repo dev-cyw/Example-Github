@@ -1,6 +1,6 @@
 # Example-Github
 This is a readme this contains important information about tools
-You should read this thoroughly to get all the information about the tool before you ask about i
+You should read this thoroughly to get all the information about the tool before you ask about it
 
 ### How to download tools:
 
